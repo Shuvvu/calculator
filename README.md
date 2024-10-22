@@ -1,1 +1,3 @@
-calculator,portfolio,landing page
+calculator
+a calculator which make by using 
+html/css/javascript
